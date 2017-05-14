@@ -1188,14 +1188,14 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 
 1. Install [Node.js](http://nodejs.org/) (4.0.0 or later)
 
-1. Clone the reveal.js repository
+1. Clone repository
    ```sh
-   $ git clone https://github.com/hakimel/reveal.js.git
+   $ git clone https://github.com/decentcult/blockchain-intro.git
    ```
 
 1. Navigate to the reveal.js folder
    ```sh
-   $ cd reveal.js
+   $ cd blockchain-intro
    ```
 
 1. Install dependencies
