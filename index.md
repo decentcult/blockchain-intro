@@ -48,10 +48,19 @@ Note: Collin Thompson - How does the Blockchain Work (for Dummies) explained sim
 
 ---
 
-# Solution
+# Solution: Bitcoin
 
-Blockchain as a history writing method
+Public and pseudonymous, permissionless and distributed blockchain powered cryptocurrency as a transaction and communication history writing tool.
+
+---
+
+# Benefits as a currency
+
 Controllable emission, transparent transactions
+
+---
+
+# Benefits as a communication tool
 
 ---
 
