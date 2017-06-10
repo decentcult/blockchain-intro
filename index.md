@@ -80,6 +80,13 @@ Note: https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
 
 # Ledger record
 
+```
+                         | Credit |  Debit |
+                 --------|--------|--------|
+                | Tim    |  1000  |    0   |
+                | Johnny |    0   |  1000  |
+```
+
 ---
 
 # What is block
